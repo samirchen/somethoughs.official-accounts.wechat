@@ -4,4 +4,4 @@
 
 微信扫码关注：
 
-![image](images/qrcode-somethoughts.jpg)
+![image](./images/qrcode-somethoughts.jpg)
